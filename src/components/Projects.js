@@ -11,10 +11,9 @@ function Projects() {
     <Project>
     <Bounce>
     <Wrap >
-    <h3>Journal App</h3>
-    <p>It's a Journal App allows users to log into their own account and start making Journal entries for their Journal.</p>
-    <a href='https://github.com/amayes1991/journal'><GitHubIcon /></a>
-    <a href='https://luminus-journal.herokuapp.com/'><LinkIcon /></a>
+    <h3>Brainwave</h3>
+    <p>It's the front page of an AI chatting website</p>
+    <a href='https://brainwave-alpha-nine.vercel.app/'><LinkIcon /></a>
 </Wrap>
     <Wrap>
     <h3>Disney Clone</h3>
@@ -26,7 +25,7 @@ function Projects() {
     <h3>Tesla Clone</h3>
     <p>It's a clone of the Tesla front page. I used Reactjs and Redux</p>
     <a href='https://github.com/amayes1991/tesla-clone' ><GitHubIcon /></a>
-    <a href='https://tesla-clone200.herokuapp.com/'><LinkIcon /></a>
+    <a href='https://tesla-clone-main-449k41vzz-amayes1991s-projects.vercel.app/'><LinkIcon /></a>
 </Wrap>
     <Wrap>
     <h3>Newsletter App</h3>
